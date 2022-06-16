@@ -90,7 +90,7 @@ flutter:
        - asset: assets/fonts/Roboto-Bold.ttf
        - asset: assets/fonts/Roboto-BoldItalic.ttf
          style: italic
-  #   - family: Trajan Pro
+  #   - family: Trajan Pro //sdfsd
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
